@@ -111,7 +111,7 @@ cat /etc/shells    #查看当前系统支持的shell
 |   \xhh    | 十六进制数(hh表示十六进制数)           |
 | \e[或\033[ | 字符转义为ANSI escape code      |
 
-###ANSI escape code
+### ANSI escape code
 
 `\e[`或`\033`是CSI，全称为“控制序列引导器”（Control Sequence Introducer/Initiator），能将字符转义成[ANSI escape code](https://en.wikipedia.org/wiki/ANSI_escape_code)
 
